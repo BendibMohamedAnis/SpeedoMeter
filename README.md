@@ -8,7 +8,7 @@ Libraries and utilities: PyQt5 , QtDesigner.
 # Screenshots: 
 
 Before exec: 
-![image](https://user-images.githubusercontent.com/46926963/193592194-09bfc5eb-eb8a-4b3f-945d-3210893440ee.png)
+![image](https://user-images.githubusercontent.com/46926963/193594132-3951ff70-b2a7-4191-b0e5-8fa2a4ec835d.png)
 
 
 After exec:
@@ -24,4 +24,4 @@ After exec:
 - Add easter egg (for fun)
 - Add status bar with information of what's going on behind the scene
 - Make animation color correspond background 
-- Solve Stutring problems
+- Fix issue showing wrong upload value
